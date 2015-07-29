@@ -3,3 +3,4 @@ test.csv
 sample.csv
 .*
 !.gitignore
+sample.zip
