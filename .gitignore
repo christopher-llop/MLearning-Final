@@ -1,6 +1,6 @@
 train.csv
 test.csv
-sample.csv
+sample*.csv*
 .*
 !.gitignore
 sample.zip
